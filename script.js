@@ -60,9 +60,9 @@ envelope.addEventListener("click", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee!";
+    title.textContent = "YAYYYYY!";
 
-    catImg.src = "cat_dance.gif";
+    catImg.src = "pikachu.gif";
 
     document.querySelector(".letter-window").classList.add("final");
 
